@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> ![Header](img/my-header.png)
+--> 
+![Header](img/my-header.png)
 
 ---
 
