@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ---
 
-![cat is coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F5MDc5NGkycGU1cmkwZTY0Y3luaGhyYjVsb2k3eHV4cTJ5cXNpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)
+
 
 <h3 align="center">👨‍💻 Just a student who codes, learns, and vibes.</h3>
 
