@@ -53,9 +53,11 @@ Here are some ideas to get you started:
 
 ### 📈 My GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?tubagusbudis=tubagus&show_icons=true&theme=tokyonight" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tubagus&theme=tokyonight" width="48%">
+<p align="left">
+<a href="https://github.com/tubagusbudis">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tubagusbudis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tubagusbudis&layout=compact&layout=compact&theme=algolia"/>
+</a>
 </p>
 
 ---
