@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-tubagusbudi2018@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tubagusbudis)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tubagus-budi-sampurno-5841b4380/)
 
 ---
 
