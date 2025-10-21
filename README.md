@@ -1,6 +1,5 @@
-## Hi there I'm Tubagus Budi S 👋
-
 <!--
+## Hi there I'm Tubagus Budi S 👋
 **tubagusbudis/tubagusbudis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,21 +13,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-![Header](img/my-header.png)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<!--![Header](img/my-header.png)-->
+<div align="center">
+  <img src="img/my-header.png" alt="Header" width="900"/>
+  <br><br>
+</div>
+
+
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
+</div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+<div 
+align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
 <br><br>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
+</div>
 
+<h3 align="left">👨‍💻 Just a student who codes, learns, and vibes.</h3>
 
-<h3 align="center">👨‍💻 Just a student who codes, learns, and vibes.</h3>
-
----
 
 🌱 I’m currently learning:
 
@@ -54,19 +64,39 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+<br><br>
 
----
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+</div>
 
-### 📈 My GitHub Stats:
+<h3 align="center">
+  📈 My GitHub Stats:
+  <br><br>
+</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/tubagusbudis">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tubagusbudis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tubagusbudis&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
 
----
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
+<br><br>
+</div>
+
+<div align=center>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+</div>
 
 ### 🎧 Currently vibing:
 
