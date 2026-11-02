@@ -1,90 +1,98 @@
 <div align="center">
 
-<!-- Banner / Wave Top -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a237e,100:0d47a1&height=160&section=header&text=Tubagus%20Budi%20Sampurno&fontSize=36&fontColor=63b3ed&fontAlignY=55&animation=fadeIn" />
+<p><sub>AN EDITORIAL PROFILE · TUBAGUS BUDI SAMPURNO</sub></p>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=63B3ED&center=true&vCenter=true&width=500&lines=Frontend+Developer+%F0%9F%92%BB;UI+%2F+UX+Enthusiast+%F0%9F%8E%A8;Android+Studio+Enjoyer+%F0%9F%9A%80;Open+to+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+<!-- Rekomendasi: Jika lo punya foto banner/hero image custom, ganti tag <picture> ini dengan file lokal: <img src="./assets/hero-banner.png" width="100%" alt="Hero Banner" /> -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&label=Tubagus%20Budi%20Sampurno&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&label=Tubagus%20Budi%20Sampurno&mode=dark" width="100%" alt="Tubagus Budi Sampurno cinematic profile scene" />
+</picture>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&label=Tubagus%20Budi%20Sampurno&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&label=Tubagus%20Budi%20Sampurno&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Tubagus Budi Sampurno animated ASCII name" />
+</picture>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=tubagusbudis&style=flat-square&color=1a237e&label=PROFILE+VIEWS" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/tubagusbudis?style=flat-square&color=1a237e&labelColor=0d1117&label=FOLLOWERS" alt="followers" />
+<p><strong>Informatics Student & Full-Stack Developer</strong> · Bandung, Indonesia</p>
+<p>Building web platforms, AI integrations, and IoT prototypes while sharing the work in public.</p>
 
+<p><a href="https://github.com/tubagusbudis">GitHub</a></p>
 </div>
 
----
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-## 💬 Ask me about
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="58%" valign="top"><h2>The point of view</h2><blockquote>Crafting seamless digital experiences through code, AI, and hardware.</blockquote><p><sub>Continuous learning, ambitious ideas, and useful collaborations.</sub></p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Full-Stack Developer<br />BASED · Bandung, Indonesia<br />FOCUS · React, Node.js, AI, IoT</sub></p><p><strong>Class of 2023</strong> UTB<br /><strong>Oxigen</strong> Head of the Internal SME Division<br /><strong>Dicoding</strong> Certified</p></td>
+</tr>
+</table>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>In the current cut</h2>
+
+<!-- Rekomendasi: Lo bisa bikin infografis custom pake Figma dengan tema ungu/biru dan masukin ke sini pakai <img src="./assets/highlights.png" /> -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&items=React%20%26%20TypeScript%3A%3ACurrent%20focus%7CAI%20Integration%3A%3AIn%20the%20active%20build%20queue%7CIoT%20Prototypes%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&items=React%20%26%20TypeScript%3A%3ACurrent%20focus%7CAI%20Integration%3A%3AIn%20the%20active%20build%20queue%7CIoT%20Prototypes%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="Tubagus cinematic highlights" />
+</picture>
+
+<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Production palette</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&v=cinematic-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&v=cinematic-stack-2&mode=dark" width="100%" alt="Tubagus animated technology stack" />
+</picture>
+
+<p align="center"><sub>JavaScript · TypeScript · React · Tailwind CSS · Express.js · PostgreSQL · Python · C++ · ESP32</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Featured reel</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&repos=tubagusbudis%2Fgame-photography-hub%2Ctubagusbudis%2Ftb-upscale-studio%2Ctubagusbudis%2Fagrismart%2Ctubagusbudis%2Foxiox-ai&v=cinematic-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&repos=tubagusbudis%2Fgame-photography-hub%2Ctubagusbudis%2Ftb-upscale-studio%2Ctubagusbudis%2Fagrismart%2Ctubagusbudis%2Foxiox-ai&v=cinematic-projects-2&mode=dark" width="100%" alt="Tubagus cinematic project reel" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/tubagusbudis/game-photography-hub">Game Photo Hub</a></strong></p><p>Web platform for game photography with React & Vite.</p><p><sub>TypeScript · React</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/tubagusbudis/tb-upscale-studio">TB. Upscale Studio</a></strong></p><p>AI image upscaling app using PyTorch & RealESRGAN.</p><p><sub>Python · FastAPI</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/tubagusbudis/agrismart">AgriSmart</a></strong></p><p>IoT soil monitoring dashboard & Gemini AI assistant.</p><p><sub>IoT · Gemini API</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/tubagusbudis/oxiox-ai">Oxiox AI</a></strong></p><p>Frontend chatbot assistant integrated with Gemini AI.</p><p><sub>React · Tailwind CSS</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Contribution trail</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="Tubagus contribution snake" />
+</picture>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
 <div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
 
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![UI Design](https://img.shields.io/badge/Making%20Cool%20UIs-%239F7AEA.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+<h2>Keep the story moving</h2>
 
+<p>Always open to discussing software architecture, AI integrations, or aesthetic game photography.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&v=cinematic-social-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=tubagusbudis&theme=dracula&avatar=https%3A%2F%2Fgithub.com%2Ftubagusbudis.png&v=cinematic-social-2&mode=dark" width="100%" alt="Tubagus contact links" />
+</picture>
+
+<p><a href="https://github.com/tubagusbudis">GitHub</a></p>
+
+<p><sub>Tubagus Budi Sampurno · with cinematic profile</p>
 </div>
-
----
-
-## 📫 Reach me at
-
-<div align="center">
-
-[![Gmail Badge](https://img.shields.io/badge/-tubagusbudi2018@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:tubagusbudi2018@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tubagus-budi-sampurno-5841b4380/)
-
-</div>
-
----
-
-## 📈 My GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/tubagusbudis">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tubagusbudis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tubagusbudis&layout=compact&theme=algolia"/>
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tubagusbudis&theme=algolia&hide_border=true" alt="streak stats" />
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
-&nbsp;
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80">
-&nbsp;
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80">
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80">
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
-
-</div>
-
----
-
-<!-- Wave Bottom -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1a237e,100:0d1117&height=120&section=footer" />
